@@ -1,0 +1,2 @@
+
+echo scriptexcuted >> demofile.txt
